@@ -12,7 +12,7 @@
 
 - [x] Landing Page:
 
-<a href="#"> ![screenshot](images/readme-images/landing-page.png) </a>
+<a href="#"> ![screenshot](images/readme-images/landing-page1.png) </a>
 
 
 
