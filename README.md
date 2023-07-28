@@ -1,5 +1,5 @@
 <div align="center">
-<h1> MERN Expense Trackerr </h1>
+<h1> MERN Expense Tracker</h1>
 </div>
 
 # About this application:
