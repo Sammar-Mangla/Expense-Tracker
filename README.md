@@ -1,14 +1,18 @@
-# ExpensesTracker_MERN_Stack_App
-In this project, we are going to learn how to make expense tracker application using Mongodb, Express, React and Node.
+<div align="center">
+<h1> MERN Expense Trackerr </h1>
+</div>
+
+# About this application:
+
+* The MERN Expense Tracker application will allow users to keep track of their day-to-day expenses.
+*  Users will be able to add their expense records with details such as expense description, category, amount.
+*  The application will store these expense records and extract meaningful data patterns to give the user a visual representation of how their expense habits fare as time progresses.
+*  Users can also delete their past expenses.
 
 
-#### Cd into Server Folder and Start the Server First. ( make sure you install all node modules using 
-```bash
-pip install foobar
-```)
-#### Cd into Client Folder and Start the React Development Server. ( make sure you install all node modules using 
-```bash
-pip install foobar
-```)
+- [x] Landing Page:
 
-[Youtube Video Tutorial Link](https://youtu.be/mhM-blTHBz8)
+<a href="#"> ![screenshot](images/readme-images/landing-page.png) </a>
+
+
+
