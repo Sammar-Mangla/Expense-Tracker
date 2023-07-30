@@ -12,7 +12,15 @@
 
 - [x] Landing Page:
 
-<a href="#"> ![screenshot](images/readme-images/landing-page1.png) </a>
+<a href="#"> ![screenshot](images/readme-images/landing1.png) </a>
+
+- [x] Income Page:
+
+<a href="#"> ![screenshot](images/readme-images/income-page.png) </a>
+
+- [x] Expense Page:
+
+<a href="#"> ![screenshot](images/readme-images/expense-page.png) </a>
 
 
 
